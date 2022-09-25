@@ -1,5 +1,0 @@
-{
-  "fs": {
-    "files": ["echo.js", "entrypoint.sh"]
-  }
-}

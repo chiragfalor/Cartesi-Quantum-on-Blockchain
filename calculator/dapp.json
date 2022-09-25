@@ -1,6 +1,0 @@
-{
-  "fs": {
-    "files": [".env", "calculator.py", "entrypoint.sh"],
-    "size": 128000
-  }
-}

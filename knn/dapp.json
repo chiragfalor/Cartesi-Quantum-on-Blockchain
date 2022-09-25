@@ -1,5 +1,0 @@
-{
-  "fs": {
-    "files": ["entrypoint.sh", "knn.py", "iris.csv"]
-  }
-}
