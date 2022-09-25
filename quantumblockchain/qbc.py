@@ -1,4 +1,4 @@
-# Make Predictions with k-nearest neighbors on the Iris Flowers Dataset
+# Make and Play with a Quantum Circuit on a Blockchain 
 
 # from http.client import UNSUPPORTED_MEDIA_TYPE
 import json
